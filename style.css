@@ -1,0 +1,61 @@
+table {
+	margin: 50px auto;
+}
+div {
+	width: 12em;
+	height: 12em;
+}
+th {
+	margin: 0;
+	padding: 0;
+}
+
+.upleft {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.midleft {
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.botleft {
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+}
+.upcent {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.midcent {
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+}
+.botcent {
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+.upright {
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.midright {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+}
+.botright {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.p1 {
+	background-color: hotpink;
+}
+.p2 {
+	background-color: lawngreen;
+}
